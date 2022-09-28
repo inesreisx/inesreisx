@@ -1,6 +1,6 @@
 <h3>Hi! I'm Inês</h3>
 My goal is to work towards holistic product solutions that will bring users joy while creating long-term business value.<br>
-You can find me around the web @inesreisx or visit my digital garden at inesreisx.com
+You can find me around the web @inesreisx or visit my digital garden at <a href="https://inesreisx.com/">inesreisx.com</a>
 
 <h4>I'm familiar with:</h4>
 <p dir="auto">
